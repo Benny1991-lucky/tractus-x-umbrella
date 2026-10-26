@@ -11,7 +11,7 @@ and data. A special focus is also on SMEs, whose active participation is of
 central importance for the network's success. That is why Catena-X has been
 conceived from the outset as an open network with solutions ready for SMEs,
 where these companies will be able to participate quickly and with little IT
-infrastructure investment. Tractus-X is meant to be the PoC project of the
+infrastructure investment. Tractus-X is meant to be the  project of the
 Catena-X alliance focusing on parts traceability.
 
 * https://projects.eclipse.org/projects/automotive.tractusx
